@@ -1,0 +1,25 @@
+body{
+    background-color: #cecece;
+    margin: auto;
+    text-align: justify;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+p {
+    color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+        width:214px;
+        height: 325px;
+    }
+
+#principal {
+    color: rgb(199, 76, 76);
+}

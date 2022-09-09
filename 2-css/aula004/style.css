@@ -1,0 +1,52 @@
+body{
+    background-color: #cecece;
+    margin: auto;
+    text-align: justify;
+}
+
+p {
+    color: rgb(34, 34, 34);
+    border-style: dotted solid dotted solid;
+}
+.um {
+    border-top-style:dotted ;
+    border-right-style: solid;
+    border-bottom-style: double;
+    border-left-style: dashed;
+    border-width: 5px;
+    border-color: lightgreen;
+
+}
+
+.dois{
+    border-style:  dotted solid double; /*border-style serve só para a borda, não para a cor eo tamanho*/
+    border-width: 5px;
+    border-color: rgba(250, 150, 20, 0.881);
+    
+}
+
+.tres{
+    border:5px groove lightcoral ; /* shorthand só funciona se for a tag border e somente uma borda só sem especificar lados*/
+}
+
+
+#principal {
+    color: rgb(199, 76, 76);
+}
+.foto-principal {
+    width: 200px;
+    height: 250px;
+    border: 2px solid  #FFFFFF; /*shorthand*/
+    border-radius: 50% 50% 10000% 10000%;
+    /* 
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+     */
+}
+ul {
+    border-style: dotted solid groove solid ;
+}
+li{
+    border-style: dotted solid groove solid ;
+}

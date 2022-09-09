@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    margin: auto;
+    text-align: justify;
+}
+
+h3 {
+    color: greenyellow;
+}
+
+.foto-principal {
+        width:214px;
+        height: 325px;
+    }
+
+#principal {
+    color: rgb(199, 76, 76);
+}
